@@ -32,7 +32,7 @@ To get started with this project, please follow these steps:
 
 The following contributors have worked on this project:
 
-- [Anirban Samanta](https://github.com/ANISAMANTA18): Frontend Developer
+- [Anirban Samanta](https://github.com/ANISAMANTA18): Frontend Developer & UI/UX Designer
 - [Shilajit Acharjee](https://github.com/Shilajit2002): Frontend Developer
 - [Debarghya Mondal](https://github.com/Debarghya001): Backend Developer
 - Souptik Sarkar: Buisness Model
